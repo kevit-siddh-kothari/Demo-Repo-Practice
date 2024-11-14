@@ -1,9 +1,9 @@
 export enum Collection {
-    ADDRESS = 'address',
-    USER = 'user'
-};
+  ADDRESS = 'address',
+  USER = 'user',
+}
 
 export enum Role {
-    ADMIN = 'admin',
-    STUDENT = 'student'
+  ADMIN = 'admin',
+  STUDENT = 'student',
 }
